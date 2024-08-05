@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1701812137 source:c:\users\mahmoud 1\desktop\ring\bi_ring_test.cpp
+	<iostream>
+	<string>
+	"bi_ring.h"
+	"bi_ring_test.h"
+
+1701812137 c:\users\mahmoud 1\desktop\ring\bi_ring.h
+	<assert.h>
+
+1701811728 c:\users\mahmoud 1\desktop\ring\bi_ring_test.h
+	<iostream>
+	"bi_ring.h"
+	<string>
+
